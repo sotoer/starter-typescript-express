@@ -1,25 +1,21 @@
-# Starter - Typescript Express
+# Typescript Express Starter App
 
-Starter App for Node Express using Typescript.
+Starter App for Node Express using Typescript and best practice configruations with eslint, jest and dev refreshing dev environment with nodemon.
 
-## Install
+### Install
 
 `$ yarn install`
-
-## Scripts
 
 ### Start developing
 
 `$ yarn run dev`
 
-### Lint
+### Don't forget to run lint and test
 
 `$ yarn run lint`
 
-### Test
-
 `$ yarn run test`
 
-### Build
+### And the final build step
 
 `$ yarn run build`
